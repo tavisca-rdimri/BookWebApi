@@ -15,14 +15,17 @@ namespace DemoApi.Model
 
         public string GetById(int id)
         {
-            Book book = new Book();
-            book = bookData.GetById(id);
-            if (book != null)
+            if (id >= 0)
             {
-                return $"ID: {book.ID}, Name:{book.Name}, Author: {book.Author}, Category:{book.category}, Price: {book.Price}";
+                Book book = new Book();
+                book = bookData.GetById(id);
+                if (book != null)
+                {
+                    return $"ID: {book.ID}, Name: {book.Name}, Author: {book.Author}, Category:{book.category}, Price: {book.Price}";
+                }
+                return "Not Found";
             }
-            return "Not Found";
-
+            return "ID can't be a negative number";
         }
         public string Post(Book value)
         {
