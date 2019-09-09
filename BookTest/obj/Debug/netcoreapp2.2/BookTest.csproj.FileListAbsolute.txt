@@ -1,0 +1,17 @@
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\BookTest.deps.json
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\BookTest.runtimeconfig.json
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\BookTest.runtimeconfig.dev.json
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\BookTest.dll
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\BookTest.pdb
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\DemoApi.dll
+C:\Users\rdimri\source\repos\DemoApi\BookTest\bin\Debug\netcoreapp2.2\DemoApi.pdb
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.csprojAssemblyReference.cache
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.csproj.CoreCompileInputs.cache
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.AssemblyInfoInputs.cache
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.AssemblyInfo.cs
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.csproj.CopyComplete
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.dll
+C:\Users\rdimri\source\repos\DemoApi\BookTest\obj\Debug\netcoreapp2.2\BookTest.pdb
