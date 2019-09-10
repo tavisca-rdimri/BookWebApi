@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using DemoApi.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 
 namespace DemoApi.Controllers
 {
@@ -17,8 +18,8 @@ namespace DemoApi.Controllers
         // GET: api/book
         [HttpGet]
         public ActionResult Get()
-        { 
-
+        {
+            Log.Information("Inside Get function");
             try
             {
                 return Ok(bookService.Get());
@@ -33,6 +34,7 @@ namespace DemoApi.Controllers
         [HttpGet("{id}", Name = "Get")]
         public ActionResult Get(int id)
         {
+            Log.Information("Inside Get By ID method with id=" + id);
             try
             {
                 return Ok(bookService.GetById(id));
@@ -47,6 +49,7 @@ namespace DemoApi.Controllers
         [HttpPost]
         public ActionResult Post([FromBody] Book value)
         {
+            Log.Information("Inside Post function");
             try
             {
                 return Ok(bookService.Post(value));
@@ -61,6 +64,7 @@ namespace DemoApi.Controllers
         [HttpPut("{id}")]
         public ActionResult Put(int id, [FromBody] Book value)
         {
+            Log.Information("Inside Put function with ID="+id);
             try
             {
                 return Ok(bookService.Put(id, value));
@@ -75,6 +79,7 @@ namespace DemoApi.Controllers
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
+            Log.Information("Inside Delete function with ID="+id);
             try
             {
                 return Ok(bookService.Delete(id));
