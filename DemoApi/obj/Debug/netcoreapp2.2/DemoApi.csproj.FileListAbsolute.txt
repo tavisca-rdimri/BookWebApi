@@ -3,7 +3,6 @@ C:\Users\rdimri\source\repos\DemoApi\DemoApi\bin\Debug\netcoreapp2.2\DemoApi.run
 C:\Users\rdimri\source\repos\DemoApi\DemoApi\bin\Debug\netcoreapp2.2\DemoApi.runtimeconfig.dev.json
 C:\Users\rdimri\source\repos\DemoApi\DemoApi\bin\Debug\netcoreapp2.2\DemoApi.dll
 C:\Users\rdimri\source\repos\DemoApi\DemoApi\bin\Debug\netcoreapp2.2\DemoApi.pdb
-C:\Users\rdimri\source\repos\DemoApi\DemoApi\obj\Debug\netcoreapp2.2\DemoApi.csprojAssemblyReference.cache
 C:\Users\rdimri\source\repos\DemoApi\DemoApi\obj\Debug\netcoreapp2.2\DemoApi.csproj.CoreCompileInputs.cache
 C:\Users\rdimri\source\repos\DemoApi\DemoApi\obj\Debug\netcoreapp2.2\DemoApi.RazorAssemblyInfo.cache
 C:\Users\rdimri\source\repos\DemoApi\DemoApi\obj\Debug\netcoreapp2.2\DemoApi.RazorAssemblyInfo.cs

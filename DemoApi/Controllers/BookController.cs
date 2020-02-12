@@ -14,7 +14,11 @@ namespace DemoApi.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
-        static BookService bookService = new BookService();
+         IBookService bookService;
+        public BookController(IBookService bookService)
+        {
+            this.bookService = bookService;
+        }
         // GET: api/book
         [HttpGet]
         public ActionResult Get()

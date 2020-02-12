@@ -1,0 +1,2 @@
+2020-01-08 12:00:53.044 +05:30 [INF] Inside Get function
+2020-01-08 12:01:08.354 +05:30 [INF] Inside Get function

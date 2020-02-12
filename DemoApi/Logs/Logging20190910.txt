@@ -1,9 +1,0 @@
-2019-09-10 10:57:31.466 +05:30 [INF] Inside Get By ID method with id=2
-2019-09-10 10:57:40.476 +05:30 [INF] Inside Get By ID method with id=7
-2019-09-10 12:12:10.612 +05:30 [INF] Inside Get function
-2019-09-10 12:12:26.791 +05:30 [INF] Inside Post function
-2019-09-10 12:12:29.597 +05:30 [INF] Inside Get function
-2019-09-10 12:12:41.561 +05:30 [INF] Inside Post function
-2019-09-10 12:12:41.672 +05:30 [ERR] Id Should be a positive integer.
-
-2019-09-10 12:12:49.885 +05:30 [INF] Inside Get function

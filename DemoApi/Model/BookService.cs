@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DemoApi.Model
 {
-    public class BookService
+    public class BookService : IBookService
     {
         Validator validator = new Validator();
         static BookData bookData = new BookData();
